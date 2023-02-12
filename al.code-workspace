@@ -5,6 +5,9 @@
     },
     {
       "path": "AvantechTST App"
+    },
+    {
+      "path": "AvantechTSTApp.Test"
     }
   ],
   "settings": {
