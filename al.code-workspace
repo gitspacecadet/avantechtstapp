@@ -7,5 +7,7 @@
       "path": "AvantechTST App"
     }
   ],
-  "settings": {}
+  "settings": {
+    "powershell.cwd": "c:\\Users\\emi\\OneDrive - Ciellos\\AL-Go\\avantechtstapp\\avantechtstapp\\.AL-Go"
+  }
 }
